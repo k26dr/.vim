@@ -6,6 +6,8 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set nohlsearch
+set ignorecase
+set smartcase
 
 " Split navigation for Chromebook
 " Ctrl-w defaults to close tab
