@@ -16,3 +16,9 @@ nmap Kl :wincmd l<Enter>
 nmap Kj :wincmd j<Enter>
 nmap Kk :wincmd k<Enter>
 
+" disable expandtab for makefiles
+let _curfile = expand("%:t")
+if _curfile =~ "Makefile" || _curfile =~ "makefile" || _curfile =~ ".*\.mk"
+    set noexpandtab
+endif
+

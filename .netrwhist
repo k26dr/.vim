@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/kedar/teach/WDI_LA_Lesson_Resources/lesson_topics/db/database_design_overview'
+let g:netrw_dirhist_2='/Users/kedar/teach/activerecord/db/migrate'
+let g:netrw_dirhist_3='/Users/kedar/teach/activerecord/app/models'
+let g:netrw_dirhist_4='/Users/kedar/teach/activerecord/app/models/concerns'
+let g:netrw_dirhist_5='/Users/kedar/teach/employees/app/controllers'
+let g:netrw_dirhist_6='/Users/kedar/teach/employees/app/controllers/concerns'
+let g:netrw_dirhist_7='/Users/kedar/teach/WDI_DTLA_7/work/w05/d03/model-relations/starter-code/controllers'
+let g:netrw_dirhist_8='/Users/kedar/teach/WDI_DTLA_7/work/w07/d01/car_lab'
+let g:netrw_dirhist_9='/Users/kedar/teach/notes'
