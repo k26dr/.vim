@@ -1,4 +1,5 @@
 syntax on 
+colo nofrils-dark
 set number
 set autoindent
 set tabstop=4
