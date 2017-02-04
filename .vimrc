@@ -9,7 +9,7 @@ set expandtab
 set nohlsearch
 set ignorecase
 set smartcase
-NoMatchParen
+let loaded_matchparen = 1
 
 " Split navigation for Chromebook
 " Ctrl-w defaults to close tab
