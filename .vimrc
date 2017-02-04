@@ -1,5 +1,5 @@
-syntax on 
-colo nofrils-dark
+syntax off
+colorscheme nofrils-dark
 set number
 set autoindent
 set tabstop=4
@@ -9,6 +9,7 @@ set expandtab
 set nohlsearch
 set ignorecase
 set smartcase
+NoMatchParen
 
 " Split navigation for Chromebook
 " Ctrl-w defaults to close tab
